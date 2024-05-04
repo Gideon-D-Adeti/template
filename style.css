@@ -38,4 +38,5 @@ input,
 button {
   font: inherit;
   padding: var(--x-small) var(--small);
+  border-radius: var(--x-small);
 }
