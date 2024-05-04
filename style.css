@@ -6,6 +6,11 @@
   /* Colors */
 
   /* Standard pxs */
+  --x-big: 64px;
+  --big: 32px;
+  --normal: 16px;
+  --small: 8px;
+  --x-small: 4px;
 
   /* Others */
 }
