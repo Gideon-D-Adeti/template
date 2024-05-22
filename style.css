@@ -40,3 +40,7 @@ button {
   padding: var(--x-small) var(--small);
   border-radius: var(--x-small);
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
